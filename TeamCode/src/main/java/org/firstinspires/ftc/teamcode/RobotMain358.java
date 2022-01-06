@@ -5,7 +5,7 @@ import com.qualcomm.robotcore.hardware.CRServo;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import java.lang.*;
 
-public abstract class RobotMain358 extends LinearOpMode {
+public abstract class RobotMain358 extends VuforiaConceptClass {
     protected DcMotor lf;
     protected DcMotor lb;
     protected DcMotor rf;
